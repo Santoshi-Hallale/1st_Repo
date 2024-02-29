@@ -1,2 +1,3 @@
 # 1st_Repo
-for demo
+this my 1st repo for demo
+auther santoshi 
